@@ -1,3 +1,5 @@
+(This is a copy of the readme of the original repo by kraten)
+
 # Vehicle Speed Detection
 
 ![output.gif](output.gif)
